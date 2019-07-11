@@ -1,4 +1,4 @@
-var endpoint = 'https://www.jsonstore.io/6b6e3cd07f3aaecd8df25ab95875eb2462f00a7614f7205c2d5dc5229896ea98'
+var endpoint = 'https://www.jsonstore.io/1f43dbff706099a6a69fccc08fd4f0673fc087ef0f95f5b67c9f223be22d23b8'
 
 function fetchJSON(a) {
 	var f = new XMLHttpRequest()
